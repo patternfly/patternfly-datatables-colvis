@@ -1,0 +1,12 @@
+{
+  "name": "patternfly-datatables-colvis",
+  "version": "1.0.0",
+  "author": "Red Hat",
+  "license": "Apache-2.0",
+  "description": "This is a fork of datatables-colvis v1.1.2 used for NPM packaging",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patternfly/patternfly-datatables-colvis.git"
+  },
+  "homepage": "https://github.com/patternfly/patternfly-datatables-colvis"
+}
